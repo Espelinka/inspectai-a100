@@ -8,12 +8,13 @@ import { ApartmentCard } from '../types';
 // Вы можете получить их на https://console.firebase.google.com
 // ------------------------------------------------------------------
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY_HERE",
-  authDomain: "your-app.firebaseapp.com",
-  projectId: "your-app-id",
-  storageBucket: "your-app.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "1:123456789:web:abcdef"
+  apiKey: "AIzaSyDLtOVpeD8YePbDnGfQd-luF_qKXlLH-Qw",
+  authDomain: "webclient-c958f.firebaseapp.com",
+  projectId: "webclient-c958f",
+  storageBucket: "webclient-c958f.firebasestorage.app",
+  messagingSenderId: "627155312782",
+  appId: "1:627155312782:web:6948f45b8cfc5a3b62e9df",
+  measurementId: "G-TV5E2J7JGX"
 };
 
 let app: FirebaseApp | undefined;
