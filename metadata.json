@@ -1,7 +1,0 @@
-{
-  "name": "InspectAI - Акт Приёмки",
-  "description": "Automated apartment acceptance tool extracting handwritten data into structured digital cards using Gemini Vision.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
